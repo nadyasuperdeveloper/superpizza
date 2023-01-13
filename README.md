@@ -1,4 +1,3 @@
 # superpizza
 super pizza for super people
-
-ten plik należy do main
+to jest strona naszej pizzerii.
