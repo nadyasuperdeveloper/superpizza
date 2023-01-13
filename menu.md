@@ -23,3 +23,9 @@
 |2. |FUNGHI (sos pomidorowy, ser, pieczarki)| |22 zł | 35zł | 45 zł |
 |3. |SALAMI VEGE (sos pomidorowy, salami VEGE, ser mozzarella)| |23zł | 35 zł | 45 zł |
 |4. |MILANO VEGE (sos pomidorowy, papryka, oregano)| |26 zł | 36 zł | 47 zł |
+
+
+## Dodatki
+1. Cukinia 5 zł
+2. Krewetki 6 zł
+3. Pomidory 10 zł
